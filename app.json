@@ -1,0 +1,6 @@
+{
+  "name": "Node.js template",
+  "description": "A barebones Node.js app using Express 5",
+  "keywords": ["node", "express", "heroku"]
+}
+
